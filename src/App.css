@@ -6,7 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+*{
+  font-family: 'Red Hat Mono', monospace;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-float infinite 3s ease-in-out;
